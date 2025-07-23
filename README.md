@@ -1,6 +1,6 @@
 # Monkeys and Coconuts - Flying Coconuts: Gamma Reflexivity Jungle
 
-![media/cover.png)
+![cover](media/cover.png)
 
 A game to showcase the theory of reflexivity using an adversarial neural network engine.
 
