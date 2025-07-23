@@ -29,7 +29,7 @@ This is a gamified visualization of market maker and retail trader dynamics in t
 monkeysandcoconuts/
 ├── core/
 │   ├── __init__.py
-│   ├── agents/                # Open AI's Agents module, found [here](https://github.com/openai/openai-agents-python/tree/main/src)
+│   ├── agents/                # Open AI's Agents module, found here: https://github.com/openai/openai-agents-python/tree/main/src
 │   ├── data/
 │   │   ├── __init__.py
 │   │   ├── data_loader.py      # CSV data loading utilities
