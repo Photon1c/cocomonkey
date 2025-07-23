@@ -184,6 +184,9 @@ Data is saved in both JSON and CSV formats for:
 - Strategy evaluation
 - Performance tracking
 
+![sample](output/20250722_214910/replay.gif)
+
+
 ## Contributing
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
 
