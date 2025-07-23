@@ -4,11 +4,16 @@
 
 A game to showcase the theory of reflexivity using an adversarial neural network engine.
 
+⚠️ This simulation models reflexive dynamics in options markets — how trader actions shape price movement and dealer response, and vice versa.
+
 This is a gamified visualization of market maker and retail trader dynamics in the options market, featuring gamma profiles, slingshot mechanics, and AI-driven agents.
 
 ## Features
 
-- **Real-time Market Simulation**: Visualizes SPY price, strikes, and gamma profiles
+- **Real-time Market Simulation**: 
+  - Visualizes SPY price, strikes, and gamma profiles
+  - Models reflexive market dynamics and dealer hedging
+  - Real-time gamma profile visualization
 - **AI Agents**: 
   - Retail Agent with psychological profiles and adaptive targeting
   - Market Maker (Monkey) Agent with defensive strategies
@@ -24,6 +29,11 @@ This is a gamified visualization of market maker and retail trader dynamics in t
   - Historical performance tracking
   - Adaptive behavior based on past experiences
   - Memory curation and retrieval
+- **Save System**:
+  - Auto-save functionality with `--save` flag
+  - Saves game state, agent memories, and statistics
+  - Timestamped save files for easy tracking
+  - CSV export for data analysis
 
 ## Project Structure
 
@@ -31,7 +41,7 @@ This is a gamified visualization of market maker and retail trader dynamics in t
 monkeysandcoconuts/
 ├── core/
 │   ├── __init__.py
-│   ├── agents/                # Open AI's Agents module, found here: https://github.com/openai/openai-agents-python/tree/main/src
+│   ├── agents/                # Open AI's Agents module
 │   ├── data/
 │   │   ├── __init__.py
 │   │   ├── data_loader.py      # CSV data loading utilities
@@ -43,14 +53,15 @@ monkeysandcoconuts/
 │   │   ├── monkey_profile.json # MM agent behavior profile
 │   │   └── retail_profile.json # Retail agent behavior profile
 │   ├── engine.py              # Core game mechanics
-│   ├── market_data.py         # Market data management
 │   ├── market_data_loader.py  # Historical data loading
 │   ├── memory_logger.py       # Agent memory system
 │   ├── monkey_agent.py        # Market maker agent logic
 │   ├── retail_agent.py        # Retail trader agent logic
+│   ├── save_manager.py        # Game state saving system
 │   ├── setup.py              # Package configuration
 │   └── ui.py                 # Pygame visualization
 ├── logs/                     # Agent memory storage
+├── output/                   # Saved game states
 └── run_game.py              # Main entry point
 ```
 
@@ -59,7 +70,7 @@ monkeysandcoconuts/
 1. Clone the repository:
 ```bash
 git clone [repository-url]
-cd monkeyball
+cd monkeysandcoconuts
 ```
 
 2. Install dependencies:
@@ -71,9 +82,27 @@ pip install -e .
 
 Run the game:
 ```bash
+# Run without saving
 python run_game.py
-# or
-monkeyball
+
+# Run with auto-save enabled
+python run_game.py --save
+```
+
+When auto-save is enabled, the game:
+- Creates timestamped save directories in `output/`
+- Auto-saves every 100 frames
+- Saves final state when exiting
+- Stores game state, memories, and statistics
+
+Save directory structure:
+```
+output/
+├── YYYYMMDD_HHMMSS/
+│   ├── game_state.json      # Main game state
+│   ├── retail_memories.json # Retail agent memories
+│   ├── monkey_memories.json # MM agent memories
+│   └── statistics.csv       # Strike-specific stats
 ```
 
 ## Controls
@@ -141,6 +170,19 @@ monkeyball
 - Integrates option chain data for strikes
 - Calculates real gamma profiles when available
 - Fallback to synthetic data when needed
+
+## Save System
+The save system captures:
+- Current game state (spot price, strikes, etc.)
+- Agent memories and learning
+- Strike-specific statistics
+- Gamma profiles and market conditions
+
+Data is saved in both JSON and CSV formats for:
+- Game state restoration
+- Data analysis
+- Strategy evaluation
+- Performance tracking
 
 ## Contributing
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
