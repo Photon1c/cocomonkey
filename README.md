@@ -1,5 +1,7 @@
 # Monkeys and Coconuts - Flying Coconuts: Gamma Reflexivity Jungle
 
+![media/logo.png)
+
 A game to showcase the theory of reflexivity using an adversarial neural network engine.
 
 This is a gamified visualization of market maker and retail trader dynamics in the options market, featuring gamma profiles, slingshot mechanics, and AI-driven agents.
