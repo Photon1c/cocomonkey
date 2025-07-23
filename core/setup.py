@@ -14,6 +14,8 @@ setup(
         "asyncio",
         "pandas",
         "python-dotenv",
+        "numpy",
+        "imageio",  # For GIF recording
     ],
     entry_points={
         "console_scripts": [

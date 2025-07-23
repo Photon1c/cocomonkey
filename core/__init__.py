@@ -9,6 +9,7 @@ from .monkey_agent import MonkeyAgent
 from .memory_logger import MemoryLogger, Memory
 from .market_data_loader import MarketDataLoader
 from .market_data import MarketData
+from .save_manager import SaveManager, save_manager
 
 __all__ = [
     'GameEngine',
@@ -20,5 +21,7 @@ __all__ = [
     'MemoryLogger',
     'Memory',
     'MarketDataLoader',
-    'MarketData'
+    'MarketData',
+    'SaveManager',
+    'save_manager'
 ] 
