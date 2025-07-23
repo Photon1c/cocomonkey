@@ -1,0 +1,32 @@
+{
+  "name": "RetailAgent",
+  "goal": "Identify vulnerable strikes with high reward-to-risk potential.",
+  "traits": {
+    "optimism_bias": 0.7,
+    "pattern_recognition": true,
+    "target_dte_range": [3, 10],
+    "strike_offset_pref": 5,
+    "momentum_sensitivity": 0.6,
+    "fomo_threshold": 0.4,
+    "risk_tolerance": 0.8
+  },
+  "strategies": [
+    "target negative gamma zones",
+    "avoid over-targeted strikes",
+    "use recent IV spikes as signal",
+    "follow momentum swings",
+    "exploit defense gaps"
+  ],
+  "biases": {
+    "herd_mentality": 0.7,
+    "confirmation": 0.6,
+    "availability": 0.5,
+    "overconfidence": 0.4
+  },
+  "behavior_weights": {
+    "spot_distance": 0.2,
+    "success_history": 0.3,
+    "mm_defense": 0.3,
+    "crowd_following": 0.2
+  }
+} 
