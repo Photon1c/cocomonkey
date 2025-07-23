@@ -1,0 +1,602 @@
+[
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:23.195966",
+    "references": 3850
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:23.228021",
+    "references": 3848
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:23.328146",
+    "references": 3842
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:23.507080",
+    "references": 3831
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:23.540618",
+    "references": 3829
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:23.573497",
+    "references": 3827
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:23.624160",
+    "references": 3824
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:23.640563",
+    "references": 3823
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:23.689174",
+    "references": 3820
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:23.722171",
+    "references": 3818
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:23.837560",
+    "references": 3811
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:23.936057",
+    "references": 3805
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:24.001278",
+    "references": 3801
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.96",
+    "importance": 0.9628667225481977,
+    "timestamp": "2025-07-22T20:03:24.017370",
+    "references": 3800
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.91",
+    "importance": 0.914827232932849,
+    "timestamp": "2025-07-22T20:03:23.951693",
+    "references": 3804
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.213392",
+    "references": 3849
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.229016",
+    "references": 3848
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.362094",
+    "references": 3840
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.378035",
+    "references": 3839
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.410494",
+    "references": 3837
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.475695",
+    "references": 3833
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.690475",
+    "references": 3820
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.741737",
+    "references": 3817
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.808640",
+    "references": 3813
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.825546",
+    "references": 3812
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.872744",
+    "references": 3809
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.904124",
+    "references": 3807
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.938061",
+    "references": 3805
+  },
+  {
+    "content": "Hit strike 610 using Basic Slingshot at spot 628.86",
+    "importance": 0.7,
+    "timestamp": "2025-07-22T20:03:23.969793",
+    "references": 3803
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.163576",
+    "references": 3852
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.179125",
+    "references": 3851
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.212755",
+    "references": 3849
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.243903",
+    "references": 3847
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.262900",
+    "references": 3846
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.278394",
+    "references": 3845
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.294808",
+    "references": 3844
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.312147",
+    "references": 3843
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.343830",
+    "references": 3841
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.361038",
+    "references": 3840
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.376035",
+    "references": 3839
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.392999",
+    "references": 3838
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.409529",
+    "references": 3837
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.458918",
+    "references": 3834
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.474694",
+    "references": 3833
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.490691",
+    "references": 3832
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.524656",
+    "references": 3830
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.557237",
+    "references": 3828
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.590899",
+    "references": 3826
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.607414",
+    "references": 3825
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.657255",
+    "references": 3822
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.672118",
+    "references": 3821
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.705228",
+    "references": 3819
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.739760",
+    "references": 3817
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.756740",
+    "references": 3816
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.772210",
+    "references": 3815
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.791142",
+    "references": 3814
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.805691",
+    "references": 3813
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.824546",
+    "references": 3812
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.852807",
+    "references": 3810
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.870442",
+    "references": 3809
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.902124",
+    "references": 3807
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.64",
+    "importance": 0.6419111483654651,
+    "timestamp": "2025-07-22T20:03:23.919809",
+    "references": 3806
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.61",
+    "importance": 0.6098848219552326,
+    "timestamp": "2025-07-22T20:03:23.426211",
+    "references": 3836
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.61",
+    "importance": 0.6098848219552326,
+    "timestamp": "2025-07-22T20:03:23.441632",
+    "references": 3835
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.61",
+    "importance": 0.6098848219552326,
+    "timestamp": "2025-07-22T20:03:23.885798",
+    "references": 3808
+  },
+  {
+    "content": "Selected strike 610 with confidence 0.51",
+    "importance": 0.5128667225481978,
+    "timestamp": "2025-07-22T20:03:22.891529",
+    "references": 3853
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:22.892491",
+    "references": 3853
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.164657",
+    "references": 3852
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.180021",
+    "references": 3851
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.196640",
+    "references": 3850
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.244903",
+    "references": 3847
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.264303",
+    "references": 3846
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.279364",
+    "references": 3845
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.296015",
+    "references": 3844
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.314146",
+    "references": 3843
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.330197",
+    "references": 3842
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.345875",
+    "references": 3841
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.393998",
+    "references": 3838
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.427226",
+    "references": 3836
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.442632",
+    "references": 3835
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.459917",
+    "references": 3834
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.491690",
+    "references": 3832
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.508082",
+    "references": 3831
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.526724",
+    "references": 3830
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.541969",
+    "references": 3829
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.558237",
+    "references": 3828
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.574625",
+    "references": 3827
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.591898",
+    "references": 3826
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.609231",
+    "references": 3825
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.625165",
+    "references": 3824
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.641562",
+    "references": 3823
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.659229",
+    "references": 3822
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.674111",
+    "references": 3821
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.707261",
+    "references": 3819
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.724190",
+    "references": 3818
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.757737",
+    "references": 3816
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.774710",
+    "references": 3815
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.792822",
+    "references": 3814
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.839848",
+    "references": 3811
+  },
+  {
+    "content": "Missed strike 610 with Basic Slingshot",
+    "importance": 0.5,
+    "timestamp": "2025-07-22T20:03:23.855808",
+    "references": 3810
+  }
+]
