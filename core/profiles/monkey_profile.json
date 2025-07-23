@@ -1,0 +1,32 @@
+{
+  "name": "MonkeyAgent",
+  "goal": "Defend the most profitable strikes using predictive hedging.",
+  "traits": {
+    "risk_aversion": 0.9,
+    "reflexivity_awareness": true,
+    "reaction_delay": 2,
+    "preferred_zone": "positive gamma",
+    "defense_radius": 5,
+    "learning_rate": 0.3,
+    "memory_span": 10
+  },
+  "strategies": [
+    "track most-targeted strikes",
+    "intercept slingshots with paddle logic",
+    "simulate dealer hedging reflex",
+    "adapt defense based on hit patterns",
+    "maintain gamma neutrality zones"
+  ],
+  "biases": {
+    "overconfidence": 0.2,
+    "anchoring": 0.4,
+    "recency": 0.6,
+    "loss_aversion": 0.8
+  },
+  "behavior_weights": {
+    "spot_distance": 0.3,
+    "hit_history": 0.2,
+    "juice_collection": 0.3,
+    "retail_clustering": 0.2
+  }
+} 
