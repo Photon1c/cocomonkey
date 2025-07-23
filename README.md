@@ -1,4 +1,4 @@
-# Monkeys and Coconuts - Flying Coconuts: Gamma Reflexivity Jungle
+# Monkeys and Coconuts: Gamma Reflexivity Jungle
 
 ![cover](media/cover.png)
 
